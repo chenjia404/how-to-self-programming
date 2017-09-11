@@ -88,6 +88,12 @@ print("Hello,World!")
 
 [MDN Web 文档](https://developer.mozilla.org/zh-CN/docs/Web) Mozilla 开发者网络，主要是web相关。
 
+[廖雪峰的官方网站](https://www.liaoxuefeng.com/) Python、JavaScript、Git免费教程。
+
+[php中文网](http://www.php.cn/) 主要是php教程，需要注册。
+
+[w3school 在线教程](http://www.w3school.com.cn/) 里面有大量免费的文字教程，包含多种语言教程。
+
 ## 我能帮助你的
 
 一个编程学习互助群：167769030、638504315 密码：每天自学编程，我会在群里面帮助大家解决一下问题，也会分享一些学习文章，另外我再邀请一些朋友过来帮大家解决问题，但是最重要的还是你自己。
